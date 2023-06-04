@@ -22,5 +22,5 @@ Screenshots
 ![Screenshot from 2023-05-11 15-50-28](https://github.com/A-infinity4/voting-dapp/assets/79836218/5f3a71ee-02f0-460d-9b8d-86cb2fb9f0ee)
 ![Screenshot from 2023-05-11 15-50-11](https://github.com/A-infinity4/voting-dapp/assets/79836218/f2a3eb6a-59d0-418a-9d36-0358a47fe849)
 ![Screenshot from 2023-05-11 15-50-02](https://github.com/A-infinity4/voting-dapp/assets/79836218/a725071e-941f-4071-b899-b0fc986c7696)
-![Screenshot from 2023-05-11 18-24-59](https://github.com/A-infinity4/voting-dapp/assets/79836218/8656cd60-dd27-4402-a833-bb3f7b0e0763)
+![Screenshot from 2023-06-04 14-15-20](https://github.com/A-infinity4/voting-dapp/assets/79836218/b4a1b198-1038-4c62-8513-069f89b5e198)
 
